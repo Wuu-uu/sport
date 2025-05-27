@@ -1,0 +1,10 @@
+setuptools<60.0.0
+wheel>=0.38.4
+selenium==4.11.2
+Pillow==10.4.0
+opencv-python==4.8.0.74
+numpy==1.24.3
+pytesseract==0.3.10
+requests==2.31.0
+certifi==2023.7.22
+webdriver-manager==4.0.0
